@@ -10,6 +10,7 @@ Impact: Uncovered distinct customer segments with similar preferences, enabling 
 
 
 
-K-means clustering groups similar data points by iteratively adjusting cluster centers until they stabilize. It's useful for pattern recognition but requires selecting the number of clusters in advance and may struggle with complex shapes or outliers.
+K-means clustering groups similar data points by iteratively adjusting cluster centers until they stabilize. It's useful for pattern recognition but requires selecting the number
+of clusters in advance and may struggle with complex shapes or outliers.
 
 ![image alt](https://github.com/Nitin9304/Mall-Customer-Segmentation-Engine-Through-Clustering-Analysis/blob/fe34fe1309cec3961c596ee83a773c4315f1e54e/Screenshot%202025-04-03%20000246.png)
