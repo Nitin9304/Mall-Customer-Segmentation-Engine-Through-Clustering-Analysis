@@ -26,7 +26,7 @@ While using the k-means clustering algorithm, the first step is to indicate the 
 K-means clustering groups similar data points by iteratively adjusting cluster centers until they stabilize. It's useful for 
 pattern recognition but requires selecting the number of clusters in advance and may struggle with complex shapes or outliers
 
-
+![alt_image](https://github.com/Nitin9304/Mall-Customer-Segmentation-Engine-Through-Clustering-Analysis/blob/e35572796bb57ae3feb6cb5887b87b08112fb69f/Annual%20Income%20VS%20Age%20and%20Spending%20Score.png)
 ![image alt](https://github.com/Nitin9304/Mall-Customer-Segmentation-Engine-Through-Clustering-Analysis/blob/fe34fe1309cec3961c596ee83a773c4315f1e54e/Screenshot%202025-04-03%20000246.png)
 
 # K-means Algorithm
