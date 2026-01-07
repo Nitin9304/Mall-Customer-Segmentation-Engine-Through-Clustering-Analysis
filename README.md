@@ -26,7 +26,7 @@ While using the k-means clustering algorithm, the first step is to indicate the 
 K-means clustering groups similar data points by iteratively adjusting cluster centers until they stabilize. It's useful for 
 pattern recognition but requires selecting the number of clusters in advance and may struggle with complex shapes or outliers
 
-![alt_image](https://github.com/Nitin9304/Mall-Customer-Segmentation-Engine-Through-Clustering-Analysis/blob/e35572796bb57ae3feb6cb5887b87b08112fb69f/Annual%20Income%20VS%20Age%20and%20Spending%20Score.png)
+
 ![image alt](https://github.com/Nitin9304/Mall-Customer-Segmentation-Engine-Through-Clustering-Analysis/blob/fe34fe1309cec3961c596ee83a773c4315f1e54e/Screenshot%202025-04-03%20000246.png)
 
 # K-means Algorithm
@@ -36,4 +36,5 @@ The closest centroid obtains the assignment of a new observation. We base this a
 k clusters in the data points update the centroid through calculation of the new mean values present in all the data points of the cluster. The kth cluster’s centroid has a - - Length of p that contains means of all variables for observations in the k-th cluster. We denote the number of variables with p.
 Iterative minimization of the total within the sum of squares. Then through the iterative minimization of the total sum of the square, the assignment stop wavering when we - - Achieve maximum iteration. The default value is 10 that the R software uses for the maximum iterations.
 
+![alt_image](https://github.com/Nitin9304/Mall-Customer-Segmentation-Engine-Through-Clustering-Analysis/blob/e35572796bb57ae3feb6cb5887b87b08112fb69f/Annual%20Income%20VS%20Age%20and%20Spending%20Score.png)
 ![image alt](https://github.com/Nitin9304/Mall-Customer-Segmentation-Engine-Through-Clustering-Analysis/blob/c2dfb119ec1b6b1f9ed7c33bff91be56ee664edd/Screenshot%202025-04-03%20000906.png)
